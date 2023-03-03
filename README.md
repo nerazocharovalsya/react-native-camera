@@ -6,10 +6,16 @@ Due to the lack of maintainers and increased code complexity, react-native-camer
 
 VisionCamera offers new APIs, better performance, improved stability and more features.
 It is actively maintained by [**@mrousavy**](https://github.com/mrousavy) and used in many production apps.
+<<<<<<< HEAD
 
 s1111sssssss1
 You can support the development of VisionCamera by [sponsoring **@mrousavy** on GitHub](https://github.com/sponsors/mrousavy).
 s2222222sssss
+f1f1f1f1f1f1ff1f1f1f1f
+You can support the development of VisionCamera by [sponsoring **@mrousavy** on GitHub](https://github.com/sponsors/mrousavy).
+
+f2ff2f222222fffff22
+>>>>>>> branch1
 <br />
 <br />
 
