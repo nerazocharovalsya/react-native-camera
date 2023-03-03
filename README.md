@@ -14,5 +14,5 @@ f2ff2f222222fffff22
 <br />
 
 > You can find the old code of react-native-camera [here](https://github.com/react-native-camera/react-native-camera/tree/master).
-
+f33333
 > See [this issue](https://github.com/react-native-community/react-native-camera/issues/3000) for more details.
